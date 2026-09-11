@@ -32,3 +32,7 @@ Start by exploring the collections below:
 - Success Stories
 
 Together, we can build the world's largest collection of educator-created practical ideas.
+
+## Free & Community-Driven
+
+This project is completely free. No one is making money off this — it's built by educators, for educators. All contributions and resources are shared freely with the teaching community.
